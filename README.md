@@ -1,4 +1,4 @@
-# EXP-4
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/507d092e-c3e2-4a64-b096-f46377fdba49" /># EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
@@ -37,15 +37,35 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="1055" height="687" alt="image" src="https://github.com/user-attachments/assets/7265cb0f-bd45-4452-8da0-bd70d96417ee" />
+
 
 Bridge rectifier with filter:
+<img width="1008" height="581" alt="image" src="https://github.com/user-attachments/assets/c17fed15-e138-4559-96bb-126ba4af8b5b" />
+
 
 TABULAR COLUMN
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/dfd139bb-d4ce-4220-97c0-f5205d7b0137" />
+
+
+
+
 Rectifier without filter
+
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/158a1f5d-184f-49dc-939d-fb1ddf3c6023" />
+
+
 TABULAR COLUMN
+<img width="1600" height="937" alt="image" src="https://github.com/user-attachments/assets/983c9598-7ffd-445b-8a5f-347293a3f13d" />
+
+
 Rectifier with filter
+<img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/3fc15718-2fed-4925-bd89-42f1c7432f3b" />
+
+
 
 WAVEFORM:
+<img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/444e9002-7d84-435b-8b0d-ac6754eeef15" />
 
 
 RESULT:
